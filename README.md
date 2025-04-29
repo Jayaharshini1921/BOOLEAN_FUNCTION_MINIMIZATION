@@ -56,9 +56,11 @@ Developed by:Jayaharshini s RegisterNumber:*/212224100024
 
 **RTL realization**
 
+![Screenshot 2025-04-29 061557](https://github.com/user-attachments/assets/d59cfc51-6523-4605-ba69-66b233677b2e)
 
 **Timing Diagram**
-![Uploading Screenshot 2025-04-29 061640.png…]()
+
+![Screenshot 2025-04-29 061640](https://github.com/user-attachments/assets/1daa5d62-e61c-4c92-a3d1-71f0798b185c)
 
 
 **Result:**
